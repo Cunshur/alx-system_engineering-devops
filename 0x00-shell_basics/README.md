@@ -21,4 +21,4 @@ This repository contains a collection of shell scripts that cover various basic 
 - `16-clean_emacs`: Removes all files in the current directory that end with `~`.
 - `17-tree`: Creates the directories `welcome/`, `welcome/to/`, and `welcome/to/holberton/` in the current directory.
 - `18-commas`: Lists the contents of the current directory in a comma-separated format.
-- `holberton.mgc`: A magic file to detect School data files.
+- `school.mgc`: A magic file to detect School data files.
