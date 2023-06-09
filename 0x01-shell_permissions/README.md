@@ -13,8 +13,7 @@ This repository contains a collection of shell scripts that cover various basic 
 - **6-multiple_permissions:** Adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 - **7-everybody:** Adds execution permission to the owner, the group owner, and the other users, to the file hello.
 - **8-James_Bond:** Sets the permission to the file hello as follows: Owner - no permission at all, Group - no permission at all, and Other users - all the permissions.
-- **9-John_Doe:** Sets the mode of the file hello to this:10.
-- **10-back:** Changes the working directory to the previous one.
+- **9-John_Doe:** Sets the mode of the file hello to this:10..
 - **10-mirror_permissions:** Sets the mode of the file hello the same as olleh's mode.
 - **11-directories_permissions:** Adds execute permission to all subdirectories of the current directory for the owner, the group owner, and all other users. Regular files will not be changed.
 - **12-directory_permissions:** Creates a directory called my_dir with permissions 751 in the working directory.
