@@ -1,4 +1,4 @@
-[200~# Shell Permission Scripts
+# Shell Permission Scripts
 
 This repository contains a collection of shell scripts that cover various basic concepts and operations in shell scripting. Each script is described briefly below:
 
